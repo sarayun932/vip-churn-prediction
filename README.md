@@ -111,6 +111,8 @@ Supplement with time-series behavioural data — transaction frequency trends, d
 
 ## 📁 Repository Structure
 
+├── README.md
+└── vip_churn_analysis.R     # Full analysis pipeline
 
 ---
 
